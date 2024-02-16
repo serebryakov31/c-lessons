@@ -1,4 +1,4 @@
-﻿
+﻿// формулы создания и вывода матрицы
 int [,] CreateMatrix (int rowCount, int columnsCount)
 {
  int[,] matrix = new int[rowCount, columnsCount];
